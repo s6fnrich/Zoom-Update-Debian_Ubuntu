@@ -1,2 +1,1 @@
-# Zoom-Update-Debian_Ubuntu
-Short Script for uptating Zoom on Debian Devices
+Short script for updating Zoom on Debian based devices
